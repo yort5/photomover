@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoMover", "PhotoMover\PhotoMover.csproj", "{7A3204FB-DC19-4E43-ACD7-D723CC8C2414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3204FB-DC19-4E43-ACD7-D723CC8C2414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3204FB-DC19-4E43-ACD7-D723CC8C2414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3204FB-DC19-4E43-ACD7-D723CC8C2414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3204FB-DC19-4E43-ACD7-D723CC8C2414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22D6C21-1AF5-4C8D-93A8-6D69BF3280F7}
+	EndGlobalSection
+EndGlobal
